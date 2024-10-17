@@ -21,4 +21,4 @@ My name is Noah and I'm an aspiring programmer.
 
 My goal is to become a full-stack web developer. I'm hoping to use Github as a way of showing off my talents and projects.
 
-- I currently know HTML, CSS, JavaScript, and a little bit of the following: Python, C, and C++.
+- I currently know HTML, CSS, JavaScript, and a little bit of the following: Python, C, C++, and Java.
