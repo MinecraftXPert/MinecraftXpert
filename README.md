@@ -1,5 +1,5 @@
 <h1 align="center">Why hello there 👋</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5005&pause=1000&background=6CF1FF00&repeat=false&random=true&width=435&lines=Software+Dev+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=1000&background=6CF1FF00&repeat=false&random=true&width=435&lines=Software+Dev+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 <br>
 
 * 🌍  I'm based in America
