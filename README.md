@@ -51,8 +51,6 @@
 <img src="https://github-stats-extended.vercel.app/api?username=MinecraftXPert&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark">
 <br>
 
-## 🏆 Trophies
-
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=MinecraftXpert&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </div>
